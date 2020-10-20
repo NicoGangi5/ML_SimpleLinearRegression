@@ -1,2 +1,3 @@
-# ML_SimpleLinearRegression
-Machine learning with Python
+# Machine learning with Python
+
+By IBM - Coursera
