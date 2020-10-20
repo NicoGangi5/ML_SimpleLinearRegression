@@ -14,3 +14,4 @@
 9.  K-MeansClustering
 10. HierarchicalClustering
 11. Density-BasedClustering
+12. ContentBasedFiltering
