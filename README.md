@@ -1,6 +1,6 @@
 # Machine learning with Python
 
-By IBM - Coursera
+## By IBM - Coursera
 
 
 1. Simple Linear Regression
