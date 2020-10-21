@@ -15,3 +15,4 @@
 10. HierarchicalClustering
 11. Density-BasedClustering
 12. ContentBasedFiltering
+13. Collaborative Filtering
